@@ -10,6 +10,6 @@
  - Quando o cmd "entrar" na pasta, digite o próximo comando: yarn start.
  - Logo após a preparação do arquivo, o cmd irá gerar um código QR na tela.
  - No seu celular, pesquise na loja de aplicativos, o app chamado EXPO GO. 
- - Em seguida inicie o aplicativo, dentro do app clique na opção código QR, e escaneie o código do cmd.
+ - Em seguida inicie o aplicativo, dentro do app, clique na opção código QR e escaneie o código do cmd.
  - Com tudo pronto, você só precisa preencher os campos com as informações necessárias e clicar no botão gerar referência.
  - Ela ficará salva podendo copiar a referência, ou excluir.
