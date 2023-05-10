@@ -12,4 +12,4 @@
  - Após instalar, inicie o aplicativo, e conecte-se com seu login.
  - Depois de estar conectado, clice na opção código QR, e escaneie o código do cmd.
  - Com tudo pronto, voce só precisa preencher os campos com as formações necessárias e clicar no botão gerar referencia.
- - Ela ficará salva podendo copiar a referencia, ou excluir.
+ - Ela ficará salva podendo copiar a referência, ou excluir.
