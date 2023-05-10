@@ -1,7 +1,8 @@
 # PROJETO-MOBILE-AV1
 
  ## Aplicativo de referências
- É um aplicativo onde visa ajudar estudantes e professores a fazer referencias de um jeito mais rápido e menos trabalhoso.
+ É um aplicativo onde visa ajudar estudantes e professores a fazer referências de um jeito mais rápido e menos trabalhoso.
+ 
  ## Como executá-lo:
  - Após baixar e instalar o node.js, abrir o cmd (prompt de comando) e escrever o seguinte comando: npm install --global yarn  
  - Após a instalação do yarn, baixe o arquivo, e depois abra ele e copie o endereço da pasta PROJETO1, abra o cmd novamente, e escreva o seguinte comando: cd (e ao lado cole o endereço da pasta) e clique enter.  
